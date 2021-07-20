@@ -25,7 +25,7 @@ Tip: Make sure you change the <br> tag accordingly
 
 </video> */
 
-import './App.css';
+import './style.css';
 import imageInSrc from './imageInSrc.jpg';
 
 function App() {
