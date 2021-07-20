@@ -1,3 +1,34 @@
+# HTML to JSX
+
+The following HTML code was converted into a JSX code in App.js file
+
+Two images was added, “imageInPublic.jpg” in the public folder and “imageInSrc.jpg” in the src folder.
+
+An external file called style.css was created and a style for the classes “title” and “red” are added.
+
+## The HTML code:
+```
+<div style="border:solid 1px black;max-width:100vw">
+
+ <h1 class="title red">Your name here</h1>
+
+ <br >
+
+ <img src="/imageInSrc.jpg" >
+
+ <br >
+
+ <img src="/imageInPublic.jpg" >
+
+</div>
+
+<video width="320" height="240" controls>
+
+ <source src="myVideo.mp4" type="video/mp4" >
+
+</video>
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
